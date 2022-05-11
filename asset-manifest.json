@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pomodoro-Timer/static/css/main.b82903c1.css",
+    "main.js": "/Pomodoro-Timer/static/js/main.0eedc659.js",
+    "static/js/787.08cc619d.chunk.js": "/Pomodoro-Timer/static/js/787.08cc619d.chunk.js",
+    "index.html": "/Pomodoro-Timer/index.html",
+    "main.b82903c1.css.map": "/Pomodoro-Timer/static/css/main.b82903c1.css.map",
+    "main.0eedc659.js.map": "/Pomodoro-Timer/static/js/main.0eedc659.js.map",
+    "787.08cc619d.chunk.js.map": "/Pomodoro-Timer/static/js/787.08cc619d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82903c1.css",
+    "static/js/main.0eedc659.js"
+  ]
+}
